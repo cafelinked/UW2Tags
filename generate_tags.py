@@ -4,7 +4,7 @@ import os
 input_file = '/home/md/Desktop/UW2Tags/table.txt'
 output_file = '/home/md/Desktop/UW2Tags/tags.txt'
 
-# Define the prefix for the parent tag (USer dependent: can change to Step 1/Step 2/Step 3)
+# Define the prefix for the parent tag (User dependent: can change to Step 1/Step 2/Step 3)
 parent_tag_prefix = 'UWorld::'
 
 # Open the input file for reading
