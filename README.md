@@ -15,7 +15,7 @@ https://github.com/cafelinked/UW2Tags/assets/106856406/91b96132-6f8f-4c94-983e-1
 
 
 # Known Issues
-Fails to ignore the headers, and you will recieve an error in termial. Ignore this error.
+Fails to ignore the headers, and you will receive an error in terminal. Ignore this error.
 
 # Errors?
 Submit your errors in issues.
